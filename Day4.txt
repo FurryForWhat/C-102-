@@ -1,0 +1,19 @@
+23 + 14 =  37
+23 - 14 = 9
+23 * 14 = ?
+23 % (modulus) 14 = အကြွင်း
+23 / (division) 14 = စားလဒ်
+
+DataType
+int <short, long>
+char
+float
+double 
+bool
+
+Operator 
+1.Arithmetic Operator (+, - , * , % , / )
+2.Logical Operator ( || (OR Operator) , && (AND Operator) , ! (NOT Operator))
+3.Comparison Operator ( > , < , >= , <= , == , != )
+4.Assignment Operator ( = , += , -= , *= , %= , /= )
+5.Bitwise Operator (&, | , ^ (XOR) , ~ , << , >> ) 

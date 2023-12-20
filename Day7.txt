@@ -1,0 +1,3 @@
+Switch , Function , while loop , do while loop , for loop
+
+Switch အကြောင်းအရာတခုစီကို တဖြတ်စီလုပ်တာ

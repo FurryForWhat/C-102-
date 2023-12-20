@@ -1,0 +1,14 @@
+Write a C++ program that prints "Hello, World!" to the console.
+
+Write a program that takes two numbers as input and prints their sum.
+
+Write a program that takes the length and width of a rectangle as input and calculates its area.
+
+Write a program that takes two numbers as input, swaps their values, and then prints the swapped values.
+
+Switch
+Exercise 1: Day of the Week
+Write a program that takes an integer representing a day of the week (1 for Monday, 2 for Tuesday, ..., 7 for Sunday) as input and prints the corresponding day.
+
+Exerice 2: Simple Calculator
+Write a progam that takes the two integer input to add,subtract, multiple, division, modulus while each calculation is based on user requeste calculation. (eg. a= 10, b= 20, input= 1 which means adding, the result should be 30)

@@ -1,0 +1,9 @@
+Function , while loop ,do while loop
+
+
+int forApple(int, int ) {
+    return_money
+
+    return return_money;
+    
+}
